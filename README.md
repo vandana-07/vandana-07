@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vandana Arora!</h1>
 <h3 align="center">I am a receptive person!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vandana-07" alt="vandana-07" /></a> </p>
-
 - 🌱 I’m currently learning **C++, Development**
 
 - 💬 Ask me about **HTML, CSS, JS and React.**
