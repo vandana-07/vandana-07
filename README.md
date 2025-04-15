@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS and React.**
 
-- 📫 How to reach me **aroravandana234@gmail.com**
+- 📫 How to reach me **vandanarora.07@gmail.com**
 
 - ⚡ Fun fact **I am good at talking gibberish!**
 
